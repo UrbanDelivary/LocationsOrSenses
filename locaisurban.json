@@ -1,6 +1,6 @@
 [{
   "suggestion":"Sentido Gov. Valadares",
-  "temporary_price_adjustment":"true",
+  "temporary_price_adjustment":"false",
   "temporary_price":"R$ 5,00",
   "reason_for_temporary_readjustment":"#", 
   "disabled":"false",
@@ -12,7 +12,7 @@
   "temporary_price_adjustment":"false",
   "temporary_price":"R$ 5,00",
   "reason_for_temporary_readjustment":"#", 
-  "disabled":"true",
+  "disabled":"false",
   "reason_it_is_disabled":"#",
    "price":"R$ 2,50"
 },
