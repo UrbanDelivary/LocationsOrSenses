@@ -1,0 +1,135 @@
+[{
+  "suggestion":"Sentido Gov. Valadares",
+  "temporary_price_adjustment":"true",
+  "temporary_price":"R$ 5,00",
+  "reason_for_temporary_readjustment":"#", 
+  "disabled":"false",
+  "reason_it_is_disabled":"#",
+   "price":"R$ 2,50"
+},
+{
+  "suggestion":"Sentido Nova Belem",
+  "temporary_price_adjustment":"false",
+  "temporary_price":"R$ 5,00",
+  "reason_for_temporary_readjustment":"#", 
+  "disabled":"true",
+  "reason_it_is_disabled":"#",
+   "price":"R$ 2,50"
+},
+{
+  "suggestion":"Próx. à Matinha",
+  "temporary_price_adjustment":"false",
+  "temporary_price":"R$ 5,00",
+  "reason_for_temporary_readjustment":"#", 
+  "disabled":"false",
+  "reason_it_is_disabled":"#",
+   "price":"R$ 4,00"
+},
+{
+  "suggestion":"Lot. Gil Molina",
+  "temporary_price_adjustment":"false",
+  "temporary_price":"R$ 5,00",
+  "reason_for_temporary_readjustment":"#", 
+  "disabled":"false",
+  "reason_it_is_disabled":"#",
+   "price":"R$ 4,00"
+},
+{
+  "suggestion":"Próx. à Vaquejada",
+  "temporary_price_adjustment":"false",
+  "temporary_price":"R$ 5,00",
+  "reason_for_temporary_readjustment":"#", 
+  "disabled":"false",
+  "reason_it_is_disabled":"#",
+   "price":"R$ 4,00"
+},
+{
+  "suggestion":"Próx. ao Cristo",
+  "temporary_price_adjustment":"false",
+  "temporary_price":"R$ 5,00",
+  "reason_for_temporary_readjustment":"#", 
+  "disabled":"false",
+  "reason_it_is_disabled":"#",
+   "price":"R$ 4,00"
+},
+{
+  "suggestion":"Próx. Córrego da Onça",
+  "temporary_price_adjustment":"false",
+  "temporary_price":"R$ 5,00",
+  "reason_for_temporary_readjustment":"#", 
+  "disabled":"false",
+  "reason_it_is_disabled":"#",
+   "price":"R$ 4,00"
+},
+{
+  "suggestion":"Córrego Panorama",
+  "temporary_price_adjustment":"false",
+  "temporary_price":"R$ 5,00",
+  "reason_for_temporary_readjustment":"#", 
+  "disabled":"false",
+  "reason_it_is_disabled":"#",
+   "price":"R$ 8,00"
+},
+{
+  "suggestion":"Próx. à Serra do Zé Rosa",
+  "temporary_price_adjustment":"false",
+  "temporary_price":"R$ 5,00",
+  "reason_for_temporary_readjustment":"#", 
+  "disabled":"false",
+  "reason_it_is_disabled":"#",
+   "price":"R$ 8,00"
+},
+{
+  "suggestion":"Patrimônio Velho",
+  "temporary_price_adjustment":"false",
+  "temporary_price":"R$ 5,00",
+  "reason_for_temporary_readjustment":"#", 
+  "disabled":"false",
+  "reason_it_is_disabled":"#",
+   "price":"R$ 10,00"
+},
+{
+  "suggestion":"Córrego Sumidouro",
+  "temporary_price_adjustment":"false",
+  "temporary_price":"R$ 5,00",
+  "reason_for_temporary_readjustment":"#", 
+  "disabled":"false",
+  "reason_it_is_disabled":"#",
+   "price":"R$ 15,00"
+},
+{
+  "suggestion":"Córrego Ipanema",
+  "temporary_price_adjustment":"false",
+  "temporary_price":"R$ 5,00",
+  "reason_for_temporary_readjustment":"#", 
+  "disabled":"false",
+  "reason_it_is_disabled":"#",
+   "price":"R$ 20,00"
+},
+{
+  "suggestion":"Córrego Velosos",
+  "temporary_price_adjustment":"false",
+  "temporary_price":"R$ 5,00",
+  "reason_for_temporary_readjustment":"#", 
+  "disabled":"false",
+  "reason_it_is_disabled":"#",
+   "price":"R$ 25,00"
+},
+{
+  "suggestion":"Barra do Itabira",
+  "temporary_price_adjustment":"false",
+  "temporary_price":"R$ 5,00",
+  "reason_for_temporary_readjustment":"#", 
+  "disabled":"false",
+  "reason_it_is_disabled":"#",
+   "price":"R$ 15,00"
+},
+{
+  "suggestion":"Boa União",
+  "temporary_price_adjustment":"false",
+  "temporary_price":"R$ 5,00",
+  "reason_for_temporary_readjustment":"#", 
+  "disabled":"false",
+  "reason_it_is_disabled":"#",
+   "price":"R$ 30,00"
+}]
